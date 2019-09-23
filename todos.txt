@@ -1,0 +1,49 @@
+Things I want to explore:
+
+- More about the markup elements
+- Adjusting the index file to remove the boilerplate and make the content my own
+- Adding a new file for the menu component, and bundling styles with it
+- What makes React less opinionated
+
+
+
+General Design
+
+Very museum-like. Clean lines, tasteful, smooth animation. Each section is similar to an exhibit.
+
+Index       -- Clean & Classy   -- Paul Schuitema inspired
+About       -- ibid
+
+Portfolio   -- Industrial / Clean -- Piet Zwart inspired
+
+Music       -- Forestry -- architecture / forest / mist
+
+Contact     -- Mountain & Sky   -- stardew / celeste inspired
+
+
+
+How could this be done in a way that makes sense, then?
+
+
+Typeface Direction -- Rounded, semi-grotesque
+
+Font Options:
+- Barlow
+- Heebo
+- Nunito Sans
+- Noto Sans SC
+
+
+
+Contact page idea
+
+mountain backdrop
+    sky
+    future: color based on server time
+
+cabin
+    window light, slight pulsing
+    wispy smoke from chimney
+
+mountains
+    gradient color
