@@ -6,7 +6,7 @@ import "../styles/menu.scss"
 const Header = ({ siteTitle }) => (
   <header
     style={{
-      background: `rebeccapurple`,
+      background: `rgba(255,255,255,0.2)`,
       marginBottom: `1.45rem`,
     }}
   >
@@ -21,7 +21,7 @@ const Header = ({ siteTitle }) => (
         <Link
           to="/"
           style={{
-            color: `white`,
+            color: `#333`,
             textDecoration: `none`,
           }}
         >
